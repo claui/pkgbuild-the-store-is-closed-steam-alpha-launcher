@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=The Store is Closed
+Comment=Co-op survival game, set in an infinite furniture store
+Exec=/usr/bin/the-store-is-closed
+Icon=/usr/share/pixmaps/the-store-is-closed.png
+Terminal=false
+StartupWMClass=wmain22.dll
+Categories=Game;
+SingleMainWindow=true
