@@ -7,4 +7,5 @@ PKG_USER_DATA_HOME="${XDG_DATA_HOME:-"${HOME}/.local/share"}/SCP3008"
 
 export WINEARCH='win64'
 export WINEPREFIX="${PKG_USER_DATA_HOME}/wine"
+mkdir -p "${WINEPREFIX}"
 wine "${EXE}"

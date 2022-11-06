@@ -2,7 +2,7 @@
 
 pkgname=the-store-is-closed-steam-alpha-launcher
 pkgver=1.0.6
-pkgrel=1
+pkgrel=2
 pkgdesc='Co-op survival game, set in an infinite furniture store'
 arch=('x86_64')
 url='https://store.steampowered.com/app/1593010/The_Store_is_Closed/'
@@ -21,7 +21,7 @@ source=(
 )
 
 sha512sums=(
-  'c3af3e8631a496087c777a092e5ee25382ba87b4b7baff3504113860b968480772cc98ff9ca311c3730a3c7ab110b4ac23849c9b9afccc810602c5237fa15ad7'
+  '16beb081017e9994973ed59bc5926dbd151f3c020d58e1638e505ca66d5faae9ed6387f6ffcea8a4e9fa26228f12c734015394f5156d9e19f46a5839733e66eb'
   '6954c8005720cd9e4095d6351f7a62ce6ac097907f84fc6f388e4f4588ed8fccbf71d7eb382dbe53e52fb91961e884c8c48f205e814b4424dfba32bd3837bd8d'
   'af05a2a14e55c1ade29cbb09c916ef671b6122c6a6ab63bc768e60fac243116a975ceff8ccb060acee8e7da9bf95b57483818104de536d296e54326ff2044e0a'
   'c8a2850ef1de40d91014e02c640bf92f741fc5edde939c34b4486a4f7c2149389f90d64df3d3eba9e8957801f5eb17b2e7144b09de3e56451fdbfb910e03abb4'
